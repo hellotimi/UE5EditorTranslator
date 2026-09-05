@@ -1,0 +1,2 @@
+# UE5EditorTranslator
+UE5EditorUITranslator

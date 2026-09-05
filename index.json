@@ -2,14 +2,14 @@
 	{
 		"id": "ultradynamicsky.zh-hans",
 		"title": "UDS",
-		"description": "cessss",
+		"description": "CESHI",
 		"author": "hellotimi",
 		"language": "zh-Hans",
 		"category": "UltraDynamicSky",
 		"translationType": "manual",
 		"entryCount": 6,
-		"version": 2,
-		"updatedAt": "2026-09-05T18:58:33.257Z",
+		"version": 3,
+		"updatedAt": "2026-09-05T19:02:59.568Z",
 		"packUrl": "https://raw.githubusercontent.com/hellotimi/UE5EditorTranslator/main/packs/ultradynamicsky.zh-hans.eutp.json"
 	}
 ]

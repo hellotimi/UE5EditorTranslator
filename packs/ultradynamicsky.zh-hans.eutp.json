@@ -1,0 +1,52 @@
+﻿{
+	"formatVersion": 1,
+	"id": "ultradynamicsky.zh-hans",
+	"title": "UDS",
+	"description": "测试",
+	"author": "hellotimi",
+	"language": "zh-Hans",
+	"category": "UltraDynamicSky",
+	"plugin": "",
+	"translationType": "manual",
+	"createdAt": "2026-09-05T18:55:48.277Z",
+	"updatedAt": "2026-09-05T18:55:48.277Z",
+	"entryCount": 6,
+	"entries": [
+		{
+			"uuid": "ad544455-43b2-5cc6-391a-41991acbf913",
+			"source": "Save Button",
+			"translation": "保存按钮",
+			"category": "UltraDynamicSky"
+		},
+		{
+			"uuid": "79e95abd-431f-0f16-cd40-278f2d1cfb57",
+			"source": "Overwrite Button",
+			"translation": "覆盖按钮",
+			"category": "UltraDynamicSky"
+		},
+		{
+			"uuid": "97e25969-4c8a-abe4-a81f-1582f0ea4bb0",
+			"source": "Animations",
+			"translation": "动画",
+			"category": "UltraDynamicSky"
+		},
+		{
+			"uuid": "267ec330-46b6-9086-394d-8b9a80d69fee",
+			"source": "Existing Config Names",
+			"translation": "现有配置名称",
+			"category": "UltraDynamicSky"
+		},
+		{
+			"uuid": "be654a56-43d7-3a50-21a1-f38836f0a2b8",
+			"source": "Click to refresh settings on UDS. Useful if you've made a change to an object or actor UDS is referencing.",
+			"translation": "点击刷新UDS设置。如果你对UDS引用的对象或演员做了更改，这很有用。",
+			"category": "UltraDynamicSky"
+		},
+		{
+			"uuid": "ff434de1-463f-f76f-9c72-0ea5031632bd",
+			"source": "Called when the sun drops below the horizon. Can be adjusted to trigger earlier or later using Sunset Event Offset.",
+			"translation": "太阳落下地平线时被呼唤。可以通过日落事件偏移调整，提前或延迟触发。",
+			"category": "UltraDynamicSky"
+		}
+	]
+}
